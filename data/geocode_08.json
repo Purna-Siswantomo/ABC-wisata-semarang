@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 32472992,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 8135070,
+    "lat": "-6.9840799",
+    "lon": "110.4095668",
+    "category": "boundary",
+    "type": "administrative",
+    "place_rank": 22,
+    "importance": 0.106728342870222,
+    "addresstype": "neighbourhood",
+    "name": "Tugu Muda",
+    "display_name": "Tugu Muda, Sekayu, Semarang Tengah, Kota Semarang, Jawa Tengah, Indonesia",
+    "boundingbox": [
+      "-6.9846604",
+      "-6.9833771",
+      "110.4090464",
+      "110.4100764"
+    ]
+  },
+  {
+    "place_id": 32573661,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 257882831,
+    "lat": "-6.9843233",
+    "lon": "110.4093328",
+    "category": "historic",
+    "type": "monument",
+    "place_rank": 30,
+    "importance": 6.16762035553066e-05,
+    "addresstype": "historic",
+    "name": "Tugu Muda",
+    "display_name": "Tugu Muda, Jalan Dokter Sutomo, RW 01, Barusari, Semarang Selatan, Kota Semarang, Jawa Tengah, 52041, Indonesia",
+    "boundingbox": [
+      "-6.9843733",
+      "-6.9842733",
+      "110.4092828",
+      "110.4093828"
+    ]
+  }
+]

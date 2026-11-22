@@ -1,0 +1,14 @@
+{
+  "code_cells_executed": 7,
+  "stochastic_runs": 40,
+  "runs_per_method": 20,
+  "budget_per_run": 5000,
+  "route_constraints_pass": true,
+  "road_geometry_matches_matrix": true,
+  "decoder_ties_and_exact_oracle_test_pass": true,
+  "presentation_slides": 10,
+  "presentation_integrity_and_import_pass": true,
+  "presentation_visual_review": "all 10 slides reviewed individually",
+  "native_powerpoint_test": false,
+  "remaining_user_fields": "two member names/NIM and actual role allocation"
+}

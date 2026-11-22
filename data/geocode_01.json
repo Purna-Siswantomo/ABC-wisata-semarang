@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 32676137,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 572968702,
+    "lat": "-6.9958722",
+    "lon": "110.3983842",
+    "category": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 6.16762035553066e-05,
+    "addresstype": "amenity",
+    "name": "Kelenteng Sam Poo Kong",
+    "display_name": "Kelenteng Sam Poo Kong, Jalan Condrokusumo Raya, RW 02, Bongsari, Semarang Barat, Kota Semarang, Jawa Tengah, 50244, Indonesia",
+    "boundingbox": [
+      "-6.9971135",
+      "-6.9947386",
+      "110.3973811",
+      "110.3992245"
+    ]
+  },
+  {
+    "place_id": 32706596,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9843206285,
+    "lat": "-6.9943053",
+    "lon": "110.3985962",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.16762035553066e-05,
+    "addresstype": "highway",
+    "name": "Halte Klenteng Sam Poo Kong 2",
+    "display_name": "Halte Klenteng Sam Poo Kong 2, Jalan Pamularsih, RW 06, Ngemplaksimongan, Semarang Barat, Kota Semarang, Jawa Tengah, 50244, Indonesia",
+    "boundingbox": [
+      "-6.9943553",
+      "-6.9942553",
+      "110.3985462",
+      "110.3986462"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 32807383,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1428417764,
+    "lat": "-6.9476655",
+    "lon": "110.3901407",
+    "category": "natural",
+    "type": "beach",
+    "place_rank": 22,
+    "importance": 0.106728342870222,
+    "addresstype": "beach",
+    "name": "Pantai Marina",
+    "display_name": "Pantai Marina, RW 10, Tawangsari, Semarang Barat, Kota Semarang, Jawa Tengah, Indonesia",
+    "boundingbox": [
+      "-6.9486740",
+      "-6.9460607",
+      "110.3888816",
+      "110.3926068"
+    ]
+  }
+]

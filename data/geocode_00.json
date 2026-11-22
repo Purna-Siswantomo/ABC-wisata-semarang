@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 32633176,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 439246632,
+    "lat": "-6.9839786",
+    "lon": "110.4107909",
+    "category": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 6.16762035553066e-05,
+    "addresstype": "tourism",
+    "name": "Lawang Sewu",
+    "display_name": "Lawang Sewu, Jalan Inspeksi, RW 02, Sekayu, Semarang Tengah, Kota Semarang, Jawa Tengah, 52041, Indonesia",
+    "boundingbox": [
+      "-6.9845197",
+      "-6.9832251",
+      "110.4101077",
+      "110.4117143"
+    ]
+  },
+  {
+    "place_id": 32633092,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 23960198,
+    "lat": "-6.9839188",
+    "lon": "110.4103763",
+    "category": "building",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 6.16762035553066e-05,
+    "addresstype": "building",
+    "name": "Lawang Sewu",
+    "display_name": "Lawang Sewu, Jalan Pemuda, RW 03, Sekayu, Semarang Tengah, Kota Semarang, Jawa Tengah, 52041, Indonesia",
+    "boundingbox": [
+      "-6.9842969",
+      "-6.9834911",
+      "110.4102230",
+      "110.4108066"
+    ]
+  }
+]

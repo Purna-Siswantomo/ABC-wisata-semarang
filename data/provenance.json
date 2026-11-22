@@ -1,0 +1,13 @@
+{
+  "retrieved_utc": "2026-11-19T23:49:19.755830+00:00",
+  "locations_source": "Nominatim / OpenStreetMap",
+  "osm_attribution": "© OpenStreetMap contributors, ODbL 1.0",
+  "osm_license": "https://www.openstreetmap.org/copyright",
+  "matrix_url": "https://router.project-osrm.org/table/v1/driving/110.4107909,-6.9839786;110.3983842,-6.9958722;110.4274633,-6.9681633;110.3901407,-6.9476655;110.3839468,-6.9860374;110.3858937,-6.9606397;110.4455923,-6.9836458;110.4084912,-6.9877873;110.4093328,-6.9843233;110.4095947,-7.0864388;110.4200237,-6.992088?annotations=duration%2Cdistance",
+  "matrix_source": "OSRM driving table",
+  "objective_unit": "seconds",
+  "distance_unit": "meters",
+  "live_traffic": false,
+  "location_selection": "Name-matched POI in Semarang bounding box, excluding highway/boundary; raw candidates saved. Watugong is Vihara Buddhagaya POI, not the residential road returned first.",
+  "note": "Locations are mapped POI reference points, not verified visitor entrances. OSRM snaps each point to road network; inspect sources/destinations in raw response."
+}

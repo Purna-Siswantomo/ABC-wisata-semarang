@@ -1,0 +1,15 @@
+OUTLINE PRESENTASI REVISI, 10 SLIDE
+1. Cover: optimasi rute wisata Semarang dengan ABC dan random keys.
+2. Outline dan masalah: kasus/data, mekanismeABC, representasi/adaptasi, hasil/evaluasi.
+3. Data:10destinasi nyata, depotLawangSewu, matriks jalanOSRM danobjective.
+4. MekanismeABC: ilustrasi employed,onlooker,scout.
+5. Representasi: contohwarna A=.72,B=.18,C=.91,D=.43 menjadi B,D,A,C.
+6. Adaptasi: perubahan keyD .43menjadi.79 menghasilkan kandidatB,A,D,C; lalu evaluasi.
+7. Eksperimen:20seed,5000FE,20foodsources,limit50, baseline danreferensieksak.
+8. Hasil: meanABC71.53menit vsrandom74.09menit; selisih3.45persen.
+9. Analisis:4/20run mencapaioptimum, mean gap1.44persen, plateau decoder.
+10. Kesimpulan, keterbatasan danusulanperan3anggota.
+
+Ilustrasi dibuat dengan built-in Imagegen, bukan foto atau bukti eksperimen.
+Grafik dan peta tetap berasal dari hasil notebook/OSM/OSRM.
+Nama duaanggotalain dan pembagian kontribusiaktual perlu dilengkapi kelompok.

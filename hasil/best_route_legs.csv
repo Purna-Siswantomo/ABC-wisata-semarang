@@ -1,0 +1,12 @@
+from,to,minutes,km
+Lawang Sewu,Kampung Pelangi,0.8483333333333333,0.5363
+Kampung Pelangi,Sam Poo Kong,2.52,2.0783
+Sam Poo Kong,Museum Ranggawarsita,2.8883333333333336,2.6365
+Museum Ranggawarsita,Grand Maerakaca,6.145,4.3548
+Grand Maerakaca,Pantai Marina,7.22,2.8878000000000004
+Pantai Marina,Gereja Blenduk,10.316666666666666,7.837
+Gereja Blenduk,Masjid Agung Jawa Tengah,6.4766666666666675,4.312600000000001
+Masjid Agung Jawa Tengah,Vihara Buddhagaya Watugong,15.193333333333333,14.0274
+Vihara Buddhagaya Watugong,Taman Indonesia Kaya,15.548333333333334,12.6168
+Taman Indonesia Kaya,Tugu Muda,2.6300000000000003,2.4883
+Tugu Muda,Lawang Sewu,0.7233333333333333,0.31560000000000005

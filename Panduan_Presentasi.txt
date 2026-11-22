@@ -1,0 +1,28 @@
+PANDUAN PRESENTASI 10 MENIT, 10 SLIDE
+
+1 (40 dtk): Judul, anggota, kasus dan fokus representasi. Dua anggota lain belum diisi.
+2 (50 dtk): Tunjukkan lokasi nyata dan kebutuhan memilih urutan. Sebutkan skenario, bukan data perjalanan operasional.
+3 (60 dtk): 11 POI termasuk depot; OSM/Nominatim dan OSRM; matriks asimetris, objective detik. Batas jam buka belum dimodelkan.
+4 (60 dtk): Employed, onlooker, scout dan arsip best. Jelaskan alasan ABC: seleksi sumber yang bagus dan restart saat stagnasi.
+5 (90 dtk): Contoh [0.72,0.18,0.91,0.43] menjadi [2,4,1,3]. Depot tetap. Keys bukan koordinat.
+6 (80 dtk): Gerakan satu dimensi, clipping, decoding dan greedy acceptance. Trial bertambah pada kegagalan termasuk rute tetap.
+7 (50 dtk): 20 seed, 20 food sources, limit50, 5000FE termasuk init/scout. Random memakai kondisi awal sama. NN dan exact tambahan.
+8 (70 dtk): Mean, std, gap optimum dan kurva convergence terhadap FE. Sebut hasil aktual, bukan angka simulasi ilustratif.
+9 (60 dtk): Banyak perubahan key tidak mengubah urutan. Scout memulihkan exploration. Exact lebih cepat untuk instance kecil.
+10 (40 dtk): Kesimpulan dan pembagian peran. Lengkapi nama aktual. Waktu total 600 detik, tambah tanya jawab5menit.
+
+USUL PEMBAGIAN PERAN, BUKAN CATATAN KONTRIBUSI AKTUAL
+Anggota1: formulasi, validasi sumber POI dan matriks.
+Anggota2: ABC, decoder dan desain eksperimen.
+Anggota3: validasi hasil, visualisasi dan analisis.
+Semua anggota memahami seluruh alur. Isi nama/NIM sesuai kelompok.
+
+LATIHAN TANYA JAWAB
+Mengapa ABC untuk routing? Mekanisme ABC tetap dipakai di ruang key kontinu, decoder menjamin permutasi valid.
+Mengapa bukan ACO? ACO juga relevan; tujuan project ini menguji adaptasi ABC, bukan membuktikan algoritma lain tidak cocok.
+Mengapa tidak pakai penjumlahan jarak Euclidean? Matriks waktu jalan lebih dekat pada kebutuhan perjalanan, tetap hanya estimasi.
+Mengapa exact lebih cepat? Instance hanya10destinasi; dynamic programming masih kecil. Jangan mengklaim ABC selalu tercepat.
+Apakah rute optimum global? Best ABC cocok dengan Held-Karp untuk matriks statis ini; tidak berarti optimum kondisi jalan aktual.
+Mengapa random tidak selalu kalah? Metode stokastik dan anggaran terbatas; gunakan mean/std20seed, jangan satu run.
+Apakah keys berbeda pasti rute berbeda? Tidak, inilah plateau representasi yang diukur pada kandidat tetangga.
+Apakah berhenti sehari? Belum diuji; perlu durasi kunjungan dan time windows untuk perluasan model.

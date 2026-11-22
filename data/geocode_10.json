@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 32775980,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 112669203,
+    "lat": "-6.9920880",
+    "lon": "110.4200237",
+    "category": "leisure",
+    "type": "park",
+    "place_rank": 24,
+    "importance": 0.08006167620355532,
+    "addresstype": "park",
+    "name": "Taman Indonesia Kaya",
+    "display_name": "Taman Indonesia Kaya, RW 04, Mugassari, Semarang Selatan, Kota Semarang, Jawa Tengah, Indonesia",
+    "boundingbox": [
+      "-6.9930836",
+      "-6.9916196",
+      "110.4193340",
+      "110.4206604"
+    ]
+  }
+]

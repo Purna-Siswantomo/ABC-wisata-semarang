@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 32792386,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 573529590,
+    "lat": "-6.9836458",
+    "lon": "110.4455923",
+    "category": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 6.16762035553066e-05,
+    "addresstype": "amenity",
+    "name": "Masjid Agung Jawa Tengah",
+    "display_name": "Masjid Agung Jawa Tengah, Jalan Jolotundo Gang V, Cluster Kana Mutiara Arteri Agency, RW 02, Sambirejo, Gayamsari, Kota Semarang, Jawa Tengah, 50162, Indonesia",
+    "boundingbox": [
+      "-6.9844551",
+      "-6.9828047",
+      "110.4446152",
+      "110.4465704"
+    ]
+  }
+]

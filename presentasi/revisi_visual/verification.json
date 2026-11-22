@@ -1,0 +1,11 @@
+{
+  "slides": 10,
+  "reviewed_all_individually": true,
+  "three_generated_explanatory_assets_checked": true,
+  "random_key_example_verified": "A=.72 B=.18 C=.91 D=.43 => B,D,A,C; D=.79 => B,A,D,C",
+  "results_match_previous_experiment": true,
+  "editable_results_table_slide": 8,
+  "package_layout_font_and_import_checks": "pass",
+  "native_powerpoint_execution_test": false,
+  "asset_generation": "built-in Imagegen; prompts in assets/Prompts_Imagegen.txt"
+}

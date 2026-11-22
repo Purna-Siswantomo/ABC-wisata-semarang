@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 32414626,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 558671846,
+    "lat": "-6.9860374",
+    "lon": "110.3839468",
+    "category": "amenity",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.16273786379520622,
+    "addresstype": "amenity",
+    "name": "Museum Ranggawarsita",
+    "display_name": "Museum Ranggawarsita, Jalan Abdul Rahman Saleh, RW 05, Kalibanteng Kidul, Semarang Barat, Kota Semarang, Jawa Tengah, 50148, Indonesia",
+    "boundingbox": [
+      "-6.9861943",
+      "-6.9858471",
+      "110.3837764",
+      "110.3841107"
+    ]
+  }
+]

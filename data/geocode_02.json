@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 32636451,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1418750680,
+    "lat": "-6.9681633",
+    "lon": "110.4274633",
+    "category": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.31776205367205024,
+    "addresstype": "amenity",
+    "name": "GPIB Immanuel",
+    "display_name": "GPIB Immanuel, Jalan Nuri, Kota Lama, RW 01, Tanjung Mas, Semarang Utara, Kota Semarang, Jawa Tengah, 50174, Indonesia",
+    "boundingbox": [
+      "-6.9683403",
+      "-6.9679882",
+      "110.4273410",
+      "110.4276228"
+    ]
+  }
+]

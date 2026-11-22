@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 32815746,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5025494121,
+    "lat": "-6.9877873",
+    "lon": "110.4084912",
+    "category": "tourism",
+    "type": "artwork",
+    "place_rank": 30,
+    "importance": 6.16762035553066e-05,
+    "addresstype": "tourism",
+    "name": "Kampung Pelangi (rainbow village)",
+    "display_name": "Kampung Pelangi (rainbow village), Jalan Dokter Sutomo, RW 03, Randusari, Semarang Selatan, Kota Semarang, Jawa Tengah, 50245, Indonesia",
+    "boundingbox": [
+      "-6.9878373",
+      "-6.9877373",
+      "110.4084412",
+      "110.4085412"
+    ]
+  }
+]

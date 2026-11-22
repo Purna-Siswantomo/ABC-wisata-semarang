@@ -1,0 +1,65 @@
+[
+  {
+    "place_id": 32448377,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 571563431,
+    "lat": "-7.0876478",
+    "lon": "110.4203391",
+    "category": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339500953688865,
+    "addresstype": "residential",
+    "name": "Jalan Villa Pinus Watugong",
+    "display_name": "Jalan Villa Pinus Watugong, RW 06, Pudakpayung, Banyumanik, Kota Semarang, Jawa Tengah, 50266, Indonesia",
+    "boundingbox": [
+      "-7.0883484",
+      "-7.0869348",
+      "110.4196632",
+      "110.4208548"
+    ]
+  },
+  {
+    "place_id": 32362588,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 581877883,
+    "lat": "-7.0861746",
+    "lon": "110.4203560",
+    "category": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05339500953688865,
+    "addresstype": "residential",
+    "name": "Jalan Watugong Indah",
+    "display_name": "Jalan Watugong Indah, RW 06, Pudakpayung, Banyumanik, Kota Semarang, Jawa Tengah, 50266, Indonesia",
+    "boundingbox": [
+      "-7.0863546",
+      "-7.0859946",
+      "110.4202862",
+      "110.4204257"
+    ]
+  },
+  {
+    "place_id": 32409408,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 476128960,
+    "lat": "-7.0864388",
+    "lon": "110.4095947",
+    "category": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 6.16762035553066e-05,
+    "addresstype": "amenity",
+    "name": "Vihara Buddhagaya Watugong Semarang",
+    "display_name": "Vihara Buddhagaya Watugong Semarang, Jalan Perumahan Kodam, RW 09, Pudakpayung, Banyumanik, Kota Semarang, Jawa Tengah, 50265, Indonesia",
+    "boundingbox": [
+      "-7.0872770",
+      "-7.0855804",
+      "110.4087869",
+      "110.4104418"
+    ]
+  }
+]
